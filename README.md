@@ -12,7 +12,8 @@ Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
 Please list the urls for the APIs you used:
-
+http://dog-api.kinduff.com
+https://opentdb.com
   Summary of Program: Pulls a question from a list of trivia and if the question is any difficulty except hard, it will print a statemnt but if the question is hard it will print a dog fact alongside a statement
 
 Most Challenging topic in the course:
